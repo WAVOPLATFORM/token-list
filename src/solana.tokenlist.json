@@ -1,0 +1,29 @@
+{
+  "name": "Solana Token List",
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/solana-logo.png",
+  "keywords": [
+    "solana",
+    "token",
+    "list"
+  ],
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Basic utility token"
+    }
+  },
+  "timestamp": "2025-06-18T20:40:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "9YaowajfEqQVEdypjya9W4o9rQoqffa12UTsH5Qnpump",
+      "symbol": "WAVO",
+      "name": "WAVO Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/WAVOPLATFORM/token-list/main/assets/mainnet/9YaowajfEqQVEdypjya9W4o9rQoqffa12UTsH5Qnpump/logo.png",
+      "tags": [
+        "utility-token"
+      ]
+    }
+  ]
+}
